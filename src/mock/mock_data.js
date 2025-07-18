@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1752821705123",
+          "name": "福利吧",
+          "url": "https://www.wnflb2023.com/",
+          "description": "万能的福利吧",
+          "icon": "https://www.wnflb2023.com/static/image/common/logo.png"
         }
       ]
     },
