@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://www.wnflb2023.com/",
           "description": "万能的福利吧",
           "icon": "https://www.wnflb2023.com/static/image/common/logo.png"
+        },
+        {
+          "id": "site-1760684091480",
+          "name": "yandex",
+          "url": "https://yandex.com/",
+          "description": "",
+          "icon": "/sitelogo/yandex.com.ico"
         }
       ]
     },
